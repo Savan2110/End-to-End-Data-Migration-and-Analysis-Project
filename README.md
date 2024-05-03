@@ -1,6 +1,6 @@
 ## End-to-End Data Migration and Analysis Project: On-prem to Azure (Data Engineering)
 
-#Project Overview/Objective:
+#BProject Overview/Objective:
 This project streamlines the migration and analysis of your on-premise data (like local SQL Server) to the Microsoft Azure cloud platform. It automates the secure data transfer, performs necessary transformations, and prepares the data for further analysis using business intelligence tools. This project aims to improve data accessibility, streamline analysis workflows, and leverage the scalability and cost-efficiency advantages of Azure.
 
 #Project Architecture:
