@@ -5,6 +5,7 @@ This project streamlines the migration and analysis of your on-premise data (lik
 
 #Project Architecture:
 
+![299235069-22a54fc9-6cb9-4bfa-a3cc-c4cf31019ce3](https://github.com/Savan2110/End-to-End-Data-Migration-and-Analysis-Project/assets/51812887/4d6769ef-0f3b-4786-94c8-d328a3f5b7b1)
 
 [Source: https://www.youtube.com/watch?v=iQ41WqhHglk&t=3624s]
 
